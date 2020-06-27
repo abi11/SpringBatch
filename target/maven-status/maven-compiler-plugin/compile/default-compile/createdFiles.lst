@@ -1,0 +1,4 @@
+com\abhi\spring\batch\ReportFieldSetMapper.class
+com\abhi\spring\batch\CustomItemProcessor.class
+com\abhi\spring\batch\AppMain.class
+com\abhi\spring\batch\Report.class
